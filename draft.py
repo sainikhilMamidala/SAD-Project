@@ -6,7 +6,6 @@ import json
 import requests
 import radon.complexity as radon_cc
 
-# --- User Configurations ---
 GITHUB_TOKEN = 'GITHUB_TOKEN'  # Replace with your token or None
 REPOS = [
     'https://github.com/psf/black', 
@@ -16,8 +15,6 @@ REPOS = [
 'https://github.com/joerick/cibuildwheel'
     # add more repositories as needed
 ]
-
-# --- Helper Functions ---
 
 def get_python_files(directory):
     py_files = []
@@ -33,7 +30,6 @@ def check_for_tools(repo_path):
     for conf in configs:
         if os.path.exists(os.path.join(repo_path, conf)):
             used_tools[conf] = True
-    # Check README for mentions
     readme_path = os.path.join(repo_path, 'README.md')
     if os.path.exists(readme_path):
         with open(readme_path, 'r', encoding='utf-8', errors='ignore') as f:
@@ -127,7 +123,6 @@ def run_bandit(repo_path):
     except:
         return None
 
-# --- Main Processing ---
 rows = []
 
 for repo_url in REPOS:
@@ -200,4 +195,5 @@ for repo_url in REPOS:
 # Save to CSV
 df = pd.DataFrame(rows)
 df.to_csv('python_repo_metrics.csv', index=False)
+
 print("\nAnalysis complete. Results saved to 'python_repo_metrics.csv'.")
