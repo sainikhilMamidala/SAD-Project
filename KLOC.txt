@@ -1,0 +1,39 @@
+Total LOC in C:\Users\saini\Desktop\SAD\project\dask: 183.61 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\tornado: 46.38 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\requests: 11.25 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\numpy: 281.39 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\keras: 266.40 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\scrapy: 74.18 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\python-qt5: 4.80 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\google-api-python-client: 19.09 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\web3.py: 75.63 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\plotly.py: 600.48 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\py-evm: 56.48 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\postgraphile: 0.00 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\docker-sonarqube: 0.00 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\pytest: 101.78 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\tensorflow: 1215.88 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\black: 127.75 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\pylint: 118.61 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\bandit: 25.80 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\flake8: 9.94 KLOC
+
+Total LOC in C:\Users\saini\Desktop\SAD\project\cibuildwheel: 21.18 KLOC

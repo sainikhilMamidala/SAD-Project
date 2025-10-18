@@ -1,0 +1,12 @@
+'https://github.com/psf/requests',
+'https://github.com/tornadoweb/tornado',
+'https://github.com/dask/dask',
+'https://github.com/numpy/numpy',
+'https://github.com/keras-team/keras',
+'https://github.com/scrapy/scrapy',
+'https://github.com/pyqt/python-qt5',
+'https://github.com/googleapis/google-api-python-client',
+'https://github.com/ethereum/web3.py',
+'https://github.com/plotly/plotly.py',
+'https://github.com/pytest-dev/pytest',
+'https://github.com/tensorflow/tensorflow'
